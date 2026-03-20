@@ -1,0 +1,9 @@
+/* dán xuống cuối file style.css */
+footer {
+    background: #222;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
+..
